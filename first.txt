@@ -1,4 +1,5 @@
 gitの練習をしていきます。
 基本的なワークフローを学びます。
-.git add
-.git status
+・git add
+・git status
+・git rm
